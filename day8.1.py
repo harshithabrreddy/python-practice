@@ -1,0 +1,14 @@
+#Enter the value  of n:5 
+#*****
+#*****
+#*****
+#*****
+#*****
+n=int(input('Enter the value of n:'))
+for i in range(n):
+    for j in range(n):
+        print("*",end="")
+    print()
+
+
+    
